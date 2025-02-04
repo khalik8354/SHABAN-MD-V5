@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SHABAN-MD~JtogmahZ#Vkks8NC2q1247SAMTqefQse1V9n5Qk6c0GwyH4nHtHc",
       "required": true,
       "value": ""
     },  
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "SHABAN-MD-V5"
+      "value": "khalik"
     }, 
       
     "PREFIX": {
